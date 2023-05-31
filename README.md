@@ -83,17 +83,29 @@ Total number of columns: 32
 # Conclusion
 
 •	Overall ADR of City hotel is slightly higher than Resort hotel.
+
 •	Mostly guests stay for less than 4 nights in hotel and for longer stays they preferred Resort hotel.
+
 •	4% of visitors return for another booking at the City Hotel, and 6% of visitors return to the Resort hotel for another stay.
+
 •	Europeans and Portuguese are the majority of guests.
-•	Mostly preferred channel for booking is TA/TO
-•	Booking cancellation ratio in TA/TO is 30%
+
+•	Mostly preferred channel for booking is TA/TO.
+
+•	Booking cancellation ratio in TA/TO is 30%.
+
 •	July- August are the busier and most profitable months for both of hotels.
+
 •	Couples are the most common guests for hotels; hence hotels can plan services according to couples needs to increase revenue.
+
 •	Low ADR for longer stays (more than 15 days)
+
 •	Booking cancellation ratio - 27.5%.
+
 •	Agent 9 is done a greater number of bookings while Agent 464 has lowest cancellation ratio.
-•	When it comes to longer stays in hotel, guest do plan much in advance
+
+•	When it comes to longer stays in hotel, guest do plan much in advance.
+
 
 
 
