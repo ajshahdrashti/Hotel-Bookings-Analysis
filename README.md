@@ -108,6 +108,10 @@ Total number of columns: 32
 
 
 # Dashboard - Hotel Booking Analysis #
+https://public.tableau.com/app/profile/shah.drashti.m5248/viz/Tableauproject_1_16876885104640/Dashboard2 
+
+
+
 
 ![image](https://github.com/ajshahdrashti/Hotel-Bookings-Analysis/assets/112719599/d7af798d-0f95-4101-9949-6af080661a8b)
 
