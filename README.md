@@ -107,5 +107,11 @@ Total number of columns: 32
 •	When it comes to longer stays in hotel, guest do plan much in advance.
 
 
+# Dashboard - Hotel Booking Analysis #
+
+![image](https://github.com/ajshahdrashti/Hotel-Bookings-Analysis/assets/112719599/d7af798d-0f95-4101-9949-6af080661a8b)
+
+
+
 
 
